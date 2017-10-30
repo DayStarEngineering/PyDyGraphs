@@ -1,3 +1,5 @@
+**NOTE:** This repository is out of date and unmaintained. The current pydygraphs project is maintained [here](https://github.com/dinkelk/PyDyGraphs).
+
 PyDyGraphs
 -----
 *Southwest Research Institute*
